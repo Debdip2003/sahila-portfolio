@@ -1,7 +1,6 @@
-import React from 'react';
-import ImageStack from '../components/ImageStack';
-import HeroSection from '../components/HeroSection';
-import About from './About';
+import React from "react";
+import ImageStack from "../components/ImageStack";
+import HeroSection from "../components/HeroSection";
 
 const Home = () => {
   return (
@@ -15,4 +14,4 @@ const Home = () => {
   );
 };
 
-export default Home; 
+export default Home;
